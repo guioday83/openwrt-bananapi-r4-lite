@@ -1,1 +1,1 @@
-# openwrt-bananapi4lite
+# openwrt-bananapi-r4-lite
